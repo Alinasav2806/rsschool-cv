@@ -7,3 +7,11 @@
 * __Email:__ ssvchenkoalina@gmail.com
 * __GitHub:__ [Alinasav2806](https://github.com/Alinasav2806)
 
+
+## About M
+ I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
+
+## Skills
+* Ability to learn
+* Technical savvy
+* Excellent command of the Russian language
