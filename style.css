@@ -1,5 +1,22 @@
-@import url('https://fonts.googleapis.com/css2? family= Playfair+Display:wght@700 & display=swap');
-body {
-    font-family: 'Playfair Display', serif;
-    background: url(https://i.sdvk-oboi.ru//i/Milassa/Modern/177052.jpg);
+
+
+.container {
+width: 800px;
+min-height: 900px;
+border: 7px solid white;
+margin: 50px auto;
+background: url(https://i.pinimg.com/originals/17/98/99/1798991b6c04db0156998215aa4c73de.jpg);
+padding: 50px;
+font-size: 50px ;
+font-style: bold;
+font-family: Impact, fantasy;
+text-align: right;
+
+.images{
+   width: 100px;
+   hz
+}
+header {
+    display: flex;
+}
 }
