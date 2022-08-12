@@ -1,3 +1,6 @@
+/* @import url('http://fonts.cdnfonts.com/css/maximum-impact'); */
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
 .container {
     width: 800px;
     min-height: 900px;
@@ -5,20 +8,37 @@
     margin: 50px auto;
     background: url(https://i.pinimg.com/originals/17/98/99/1798991b6c04db0156998215aa4c73de.jpg);
     padding: 50px;
-    font-family: Impact, fantasy;
+    /* font-family: Impact, fantasy; */
+    /* font-family: 'Maximum Impact', sans-serif; */
+    font-family: 'Yeseva One', cursive;
     text-align: right;
 }
 
 header {
     display: flex;
-    font-size: 50px;
+    font-size: 58px;
     font-style: bold;
+    text-align: right;
 }
 
 .image {
    width: 100px;
+   text-align: right;
+
 }
 
 .info {
-    font-size: 20px;  
+    font-size: 15px;  
+    text-align: left;
+}
+
+.aboutme {
+    text-align: left;
+    font-size: 15px;
+
+}
+
+.skills {
+    text-align: left;
+    font-size: 15px;
 }
