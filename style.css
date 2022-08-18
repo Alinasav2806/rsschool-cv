@@ -11,20 +11,18 @@
     /* font-family: Impact, fantasy; */
     /* font-family: 'Maximum Impact', sans-serif; */
     font-family: 'Yeseva One', cursive;
-    text-align: right;
 }
 
 header {
     display: flex;
+    flex-direction: row;
     font-size: 58px;
-    font-style: bold;
-    text-align: right;
 }
 
-.image {
-   width: 100px;
-   text-align: right;
-
+h1 {
+    width: 100%;
+    font-weight: bold;
+    text-align: right;
 }
 
 .info {
@@ -32,7 +30,7 @@ header {
     text-align: left;
 }
 
-.aboutme {
+.about-me {
     text-align: left;
     font-size: 15px;
 
